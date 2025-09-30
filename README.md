@@ -1,1 +1,1 @@
-# Harshad-Sarnaik-
+![Internship Logo](assets/internship.png)
